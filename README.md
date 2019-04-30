@@ -6,8 +6,14 @@ This is our project repository for the paper "Difficulty aware Image Superresolu
 
 If you find our work useful in your research or publication, please cite our work:
 <br>
-
-"Difficulty aware Image Superresolution via Deep Adaptive Dual-network"
+`
+@article{qin2019difficulty,
+  title={Difficulty-aware Image Super Resolution via Deep Adaptive Dual-Network},
+  author={Qin, Jinghui and Xie, Ziwei and Shi, Yukai and Wen, Wushao},
+  journal={arXiv preprint arXiv:1904.05802},
+  year={2019}
+}
+`
 <br> <br>
 
 We provide all the final results from our paper. You can download them from [here](https://pan.baidu.com/s/1P9ofvV4hbE3bk36HXqV6mQ )(436M). The extraction code is `trgw`
