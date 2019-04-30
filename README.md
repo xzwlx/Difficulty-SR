@@ -5,7 +5,7 @@ This is our project repository for the paper "Difficulty aware Image Superresolu
 <br> <br>
 
 If you find our work useful in your research or publication, please cite our work:
-<br> <br>
+<br>
 
 "Difficulty aware Image Superresolution via Deep Adaptive Dual-network"
 <br> <br>
