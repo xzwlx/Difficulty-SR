@@ -10,7 +10,7 @@ If you find our work useful in your research or publication, please cite our wor
 "Difficulty aware Image Superresolution via Deep Adaptive Dual-network"
 <br> <br>
 
-We provide all the final results from our paper. You can download them from [here](https://pan.baidu.com/s/1P9ofvV4hbE3bk36HXqV6mQ ). The extraction code is 'trgw'
+We provide all the final results from our paper. You can download them from [here](https://pan.baidu.com/s/1P9ofvV4hbE3bk36HXqV6mQ ). The extraction code is `trgw`
 <br> <br>
 
 ## Dependencies
